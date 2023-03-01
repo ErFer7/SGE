@@ -1,0 +1,2 @@
+# SGE
+Simple graphical engine
