@@ -7,7 +7,7 @@
 #define MAX_FPS 60.0
 #define SCREEN_WIDTH 800
 #define SCREEN_HEIGHT 600
-#define SCREEN_TITLE "SGE Test"
+#define SCREEN_TITLE "SGE v0.1"
 
 void ProcessInput(GLFWwindow *window)
 {
